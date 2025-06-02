@@ -1,0 +1,15 @@
+artifact_uri: file:///SLIM/../data/mlruns/145241622503493286/a2036701acc547f78e9463f38666074f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '145241622503493286'
+lifecycle_stage: active
+run_id: a2036701acc547f78e9463f38666074f
+run_name: test
+run_uuid: a2036701acc547f78e9463f38666074f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748864928572
+status: 1
+tags: []
+user_id: root
