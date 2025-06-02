@@ -1,0 +1,6 @@
+artifact_location: file:///SLIM/../data/mlruns/145241622503493286
+creation_time: 1748862029271
+experiment_id: '145241622503493286'
+last_update_time: 1748862029271
+lifecycle_stage: active
+name: synthetic6_dalex_split2
