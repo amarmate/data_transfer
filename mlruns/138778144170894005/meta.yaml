@@ -1,6 +1,0 @@
-artifact_location: file:///SLIM/../data/mlruns/138778144170894005
-creation_time: 1748868157827
-experiment_id: '138778144170894005'
-last_update_time: 1748868157827
-lifecycle_stage: active
-name: forest_fires_dalex_split3

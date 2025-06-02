@@ -1,6 +1,0 @@
-artifact_location: file:///SLIM/../data/mlruns/757039090949975363
-creation_time: 1748872709206
-experiment_id: '757039090949975363'
-last_update_time: 1748872709206
-lifecycle_stage: active
-name: ld50_dalex_split3
