@@ -1,0 +1,27 @@
+2025-06-03T12:48:04Z - >>> ENTRYPOINT SCRIPT START
+2025-06-03T12:48:04Z - System Uptime: up 27 weeks, 1 day, 14 hours, 27 minutes
+2025-06-03T12:48:04Z - Logfile for this session: /data/log/server_operations_2025-06-03T12:48:04Z.log
+DEBUG_SCRIPT_START: Initial LOGFILE value is '/data/log/server_operations_2025-06-03T12:48:04Z.log'
+2025-06-03T12:48:04Z - --- Section 1: SSH Key Setup START ---
+2025-06-03T12:48:04Z - Created directory /root/.ssh (if it didn't exist).
+2025-06-03T12:48:04Z - Configured authorized_keys.
+2025-06-03T12:48:04Z - Configured private key id_ed25519 from DEPLOY_KEY_B64.
+2025-06-03T12:48:04Z - Configured SSH client config for github.com.
+2025-06-03T12:48:04Z - --- Section 1: SSH Key Setup COMPLETE ---
+2025-06-03T12:48:04Z - --- Section 2: SLIM Code & Dependencies Setup START ---
+2025-06-03T12:48:04Z - Activated Python virtual environment: /myenv/bin/activate.
+2025-06-03T12:48:04Z - SLIM repository found at /SLIM. Updating...
+2025-06-03T12:48:04Z - SLIM repository updated successfully.
+2025-06-03T12:48:04Z - --- Section 2: SLIM Code & Dependencies Setup COMPLETE ---
+2025-06-03T12:48:04Z - --- Section 3: Data Repository Setup & Snapshot START ---
+2025-06-03T12:48:04Z - Ensured data directory /data exists.
+2025-06-03T12:48:04Z - Changed directory to /data.
+2025-06-03T12:48:04Z - Initializing Git repository in /data.
+2025-06-03T12:48:04Z - Added remote 'origin' (git@github.com:amarmate/data_transfer.git).
+2025-06-03T12:48:04Z - Fetching 'origin main' for data repository...
+2025-06-03T12:48:09Z - No HEAD found in /data (repository might be empty), skipping stash.
+2025-06-03T12:48:09Z - 'origin/main' found. Setting local 'main' to match 'origin/main'.
+2025-06-03T12:48:09Z - Local 'main' branch in /data is now set from 'origin/main'.
+2025-06-03T12:48:09Z - No stash was applied or stash attempt failed in /data, skipping pop.
+2025-06-03T12:48:09Z - Configuring git user.name='Mateus GP Bot' and user.email='mbaptistaamaral@gmail.com' for /data.
+2025-06-03T12:48:09Z - Adding all changes in /data to git staging area...
